@@ -16,7 +16,7 @@ export const portfolioData: PortfolioData = {
     {
       company: 'SPX Express',
       role: 'Value Chain Junior Associate',
-      period: 'July 2024 - October 2025',
+      period: 'July 2025 - October 2025',
       location: 'Jakarta, Indonesia',
       description: [
         'Designed and implemented operational models to optimize courier productivity across multiple delivery hubs.',
